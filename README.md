@@ -13,7 +13,7 @@ O slide foi criado por mim `Maurício Mbala`, veja meu perfil.: https://github.c
 
 ## Visualização em vídeo
 
-<!-- <video src="apresentar.webm" width="100%" loop autoplay muted></video> -->
+<video src="apresentar.webm" width="100%" loop autoplay muted></video>
 
 <br><br>
 
@@ -69,7 +69,7 @@ var swiper = new Swiper(".slide-content", {
 
 <br>
 
-<!-- <img src="programador.webp" style="width: 500px; border-radius: 8px;"> -->
+<img src="programador.webp" style="width: 500px; border-radius: 8px;">
 
 <br><br><br>
 
