@@ -9,11 +9,6 @@ O slide foi criado por mim `Maurício Mbala`, veja meu perfil.: https://github.c
 ## Visualização do Slide
 
 ![Screenshot](slider.png)
-<br>
-
-## Visualização em vídeo
-
-<video src="apresentar.webm" width="100%" loop autoplay muted></video>
 
 <br><br>
 
