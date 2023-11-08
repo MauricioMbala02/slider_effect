@@ -1,3 +1,5 @@
+alert("O link funcionou!!!")
+
 function setupSplits() {
   
 var tlSplitBurrowing = gsap.timeline(), 
